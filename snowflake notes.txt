@@ -1,0 +1,2 @@
+https://docs.snowflake.net/manuals/user-guide/intro-key-concepts.html
+https://www.youtube.com/watch?v=iOsMbqIDPss
